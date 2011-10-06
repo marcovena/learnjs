@@ -13,7 +13,7 @@ for (var i=0;i<items.lenght;i++)
 	list.appendChild("li");
 	console.log(items[i]);
 }
-
+// added extra comments!!!!
 
 }
 )()
